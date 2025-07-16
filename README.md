@@ -4,11 +4,11 @@ A Quiz Android application 📱 built using Java ♨️ and showing best practic
 
 ## ❤️ Try App
 ## Scan QR Code
- <img src="https://raw.githubusercontent.com/kishan1234h/Quiz-App/master/screenshots/qrCodeForApk.png"
+ <img src="https://raw.githubusercontent.com/pickachu404/Quiz-App/master/screenshots/qrCodeForApk.png"
 width="200" height="200"> 
 ---------------
-### Get Apk [Download here](https://raw.githubusercontent.com/kishan1234h/Quiz-App/master/app/release/app-release.apk)
-------------
+### Get Apk [Download here](https://raw.githubusercontent.com/pickachu404/Quiz-App/master/app/release/app-release.apk)
+--------
 ## ⚙️ Features
 * App consists of Quiz of primarily three subject - Maths, Geography, Literature
 * Maintaining history of previous attempts of quiz using Room.
